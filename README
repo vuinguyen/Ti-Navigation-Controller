@@ -1,5 +1,5 @@
-The hierarchical Navigation Controller displays a series of windows in
-an easily navigable stack.
+Cross platform navigation controller for Appcelerator Titanium.
+It is a mobile app that displays a series of windows in an easily navigable stack.
 
 This is my version of the Cross-Platform NavigationController written by
 Kevin Whinnery and modified by Matthew Lanham. Their github repositories are,
