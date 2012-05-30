@@ -1,0 +1,6 @@
+tmp
+*.class
+*.pyc
+*.pyo
+build.log
+CHANGELOG.txt
