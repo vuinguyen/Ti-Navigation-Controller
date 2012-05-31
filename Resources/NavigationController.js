@@ -68,7 +68,7 @@ NavigationController.prototype.back = function(w) {
 module.exports = NavigationController;
 
 /*
- * author: www.sunfishempire.com
+ * Author: www.sunfishempire.com
  * This is my version of the NavigationController file
  * Modified from Kevin Whinnery's version on 
  * https://github.com/kwhinnery/NavigationController
