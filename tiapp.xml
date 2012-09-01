@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ti:app xmlns:ti="http://ti.appcelerator.org">
-    <property name="acs-oauth-secret-production" type="string">uPHko0oFNrGMBfmfW5P3xIefRzvEhTR4</property>
-    <property name="acs-oauth-key-production" type="string">IBwZECrPdpIEUcgThQTplmM1OGESKz2H</property>
-    <property name="acs-api-key-production" type="string">8JAO2SkUR6OUZf8puKBWbtYmEX4tk2kr</property>
-    <property name="acs-oauth-secret-development" type="string">XiRsnSQq7GuF7P7yAuLlKLGcPCQOvgMO</property>
-    <property name="acs-oauth-key-development" type="string">R1uPpDiKaZGMqnyunywszqEpIjC0nZET</property>
-    <property name="acs-api-key-development" type="string">MnSQwfiNOK41s88CyfSboKXTXEidmFdD</property>
     <deployment-targets>
         <target device="mobileweb">true</target>
         <target device="iphone">true</target>
@@ -13,7 +7,7 @@
         <target device="android">true</target>
         <target device="blackberry">false</target>
     </deployment-targets>
-    <sdk-version>2.0.1.GA2</sdk-version>
+    <sdk-version>2.0.2.GA</sdk-version>
     <id>com.sunfishempire.navigationcontroller</id>
     <name>NavigationController</name>
     <version>1.0</version>
@@ -51,7 +45,5 @@
         </splash>
         <theme>default</theme>
     </mobileweb>
-    <modules>
-        <module platform="commonjs" version="2.0.1">ti.cloud</module>
-    </modules>
+    <modules/>
 </ti:app>

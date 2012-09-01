@@ -10,9 +10,11 @@ https://github.com/swanify/Titanium-Navigation-Controller
 
 One of the challenges of Titanium is that it's still evolving, so older
 versions of Titanium code don't compile with the latest SDK. I've merged
-Kevin and Matthew's versions and cleaned up the code so that it compiles with the 
-Titanium Mobile 2.0 SDK, is compatible with Google Android 2.3.3,
+Kevin and Matthew's versions and cleaned up the code so that it compiles up to
+Titanium Mobile 2.0.2GA SDK, is compatible with Google Android 2.3.3,
 iPhone 5.1, and applies the CommonJS pattern.
 
 For questions, comments, (and praise!), please visit my website at:
 www.sunfishempire.com
+
+Also, feel free to fork from this project and send me pull requests.
